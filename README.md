@@ -1,1 +1,1 @@
-# Machine Learning, Data Analytics, Database Management Projects
+# Machine Learning, Data Analytics and Database Management Projects
